@@ -2,7 +2,7 @@
   "name": "discord-getting-started",
   "private": true,
   "version": "1.0.0",
-  "description": "Discord example app",
+  "description": "Mirage's Discord App",
   "main": "app.js",
   "type": "module",
   "engines": {
@@ -13,7 +13,7 @@
     "register": "node commands.js",
     "dev": "nodemon app.js"
   },
-  "author": "Shay DeWael",
+  "author": "Mr Nippy",
   "license": "MIT",
   "dependencies": {
     "discord-interactions": "^4.0.0",
